@@ -4,13 +4,13 @@
 
 ## 🌎 Languages
 
-![Javascript](/image/js_offical.svg)
-![Typescript](/image/typescript_offical.svg)
-![Python](/image/python.svg)
-![Go](/image/golang.svg)
-![Rust](/image/rust.svg)
-![Lua](/image/lua.svg)
-![Shell](/image/shell.svg)
+<img src="/image/js_official.svg" width="20px"/>
+<img src="/image/typescript_offical.svg" width="20px"/>
+<img src="/image/python.svg" width="20px"/>
+<img src="/image/golang.svg" width="20px"/>
+<img src="/image/rust.svg" width="20px"/>
+<img src="/image/lua.svg" width="20px"/>
+<img src="/image/shell.svg" width="20px"/>
 
 ## 🏗 Frameworks
 
