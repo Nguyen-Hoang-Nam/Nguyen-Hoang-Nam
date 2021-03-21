@@ -12,7 +12,7 @@
 
 ## 🧳 Databases
 
-<img src="/image/mongo.svg" width="30px"/> <img src="/image/mysql.svg" width="30px"/> <img src="/image/elastic.svg" width="30px"/>
+<img src="/image/mongo.svg" width="30px"/> <img src="/image/mysql.svg" width="30px"/>
 
 ## 📝 Editors
 
