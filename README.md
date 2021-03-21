@@ -4,48 +4,27 @@
 
 ## 🌎 Languages
 
-<img src="/image/js_official.svg" width="20px"/>
-<img src="/image/typescript_offical.svg" width="20px"/>
-<img src="/image/python.svg" width="20px"/>
-<img src="/image/golang.svg" width="20px"/>
-<img src="/image/rust.svg" width="20px"/>
-<img src="/image/lua.svg" width="20px"/>
-<img src="/image/shell.svg" width="20px"/>
+<img src="/image/js_official.svg" width="30px"/> <img src="/image/typescript_official.svg" width="30px"/> <img src="/image/python.svg" width="30px"/> <img src="/image/golang.svg" width="30px"/> <img src="/image/rust.svg" width="30px"/> <img src="/image/lua.svg" width="30px"/> <img src="/image/shell.svg" width="30px"/>
 
 ## 🏗 Frameworks
 
-![React](/image/reactjs.svg)
-![Svelte](/image/svelte.svg)
-![GraphQL](/image/graphql.svg)
-![Protobuffer](/image/protobuf.svg)
-![Prettier](/image/prettier.svg)
-![Rollup](/image/rollup.svg)
+<img src="/image/reactjs.svg" width="30px"/> <img src="/image/svelte.svg" width="30px"/> <img src="/image/graphql.svg" width="30px"/> <img src="/image/protobuf.svg" width="30px"/> <img src="/image/prettier.svg" width="30px"/> <img src="/image/rollup.svg" width="30px"/>
 
 ## 🧳 Databases
 
-![Mongo](/image/mongo.svg)
-![MySQL](/image/mysql.svg)
-![Elasticsearch](/image/elastic.svg)
+<img src="/image/mongo.svg" width="30px"/> <img src="/image/mysql.svg" width="30px"/> <img src="/image/elastic.svg" width="30px"/>
 
 ## 📝 Editors
 
-![Vim](/image/vim.svg)
-![Visual studio code](/image/vscode.svg)
+<img src="/image/vim.svg" width="30px"/> <img src="/image/vscode.svg" width="30px"/>
 
 ## 🛠 Tools
 
-![Docker](/image/docker.svg)
-![Swagger](/image/swagger.svg)
-![Git](/image/git.svg)
-![Husky](/image/husky.svg)
-![Photoshop](/image/photoshop.svg)
+<img src="/image/docker.svg" width="30px"/> <img src="/image/swagger.svg" width="30px"/> <img src="/image/git.svg" width="30px"/> <img src="/image/husky.svg" width="30px"/> <img src="/image/photoshop.svg" width="30px"/>
 
 ## 🌊 Others
 
-![WASM](/image/wasm.svg)
-![SCSS](/image/scss.svg)
-![PostCSS](/image/postcss.svg)
-![Pug](/image/pug.svg)
+<img src="/image/wasm.svg" width="30px"/> <img src="/image/scss.svg" width="30px"/> <img src="/image/postcss.svg" width="30px"/> <img src="/image/pug.svg" width="30px"/>
 
 ## 📚 Github
 
