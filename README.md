@@ -1,6 +1,6 @@
 # I dont read code, code README 
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyen-Hoang-Nam&layout=compact&langs_count=10">]
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyen-Hoang-Nam&layout=compact&langs_count=10">
 
 - 🏝 More Go and Rust please. Besides that, I also work a lots with NodeJS, Python, Lua and recently PHP, Java.
 - 🤹 For me, Go, and NodeJS are working prefectly for small, and medium web app. For larger one, I often choose Java.
@@ -10,6 +10,6 @@
 
 ## My CV
 
-![CV](https://raw.githubusercontent.com/Nguyen-Hoang-Nam/readme-image/main/latex-cv/latex-cv.png)
+<img width="100%" src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/readme-image/main/latex-cv/latex-cv.png">
 
 [Source code](https://github.com/Nguyen-Hoang-Nam/latex-cv)
