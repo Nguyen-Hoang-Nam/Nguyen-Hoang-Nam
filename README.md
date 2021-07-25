@@ -10,6 +10,6 @@
 
 ## My CV
 
-<img align="center" src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/readme-image/main/latex-cv/latex-cv.png">
+![CV](https://raw.githubusercontent.com/Nguyen-Hoang-Nam/readme-image/main/latex-cv/latex-cv.png)
 
-<a style="text-align: center;" href="https://github.com/Nguyen-Hoang-Nam/latex-cv">Source code</a>
+[Source code](https://github.com/Nguyen-Hoang-Nam/latex-cv)
