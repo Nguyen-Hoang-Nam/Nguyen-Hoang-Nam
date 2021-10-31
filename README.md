@@ -1,10 +1,11 @@
 # I don't read code, code README
 
+<p align="center">
 ![Love](https://img.shields.io/badge/BUILT%20WITH-LOVE-orange?style=for-the-badge&labelColor=E36D25)
-![Nvim](https://img.shields.io/badge/Neovim-74a46a.svg?style=for-the-badge&logo=neovim&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Github](https://img.shields.io/github/stars/Nguyen-Hoang-Nam?style=for-the-badge)
 ![Reddit](https://img.shields.io/reddit/user-karma/combined/nguyenhoangnam-dev?style=for-the-badge)
+![Nvim](https://img.shields.io/badge/Neovim-74a46a.svg?style=for-the-badge&logo=neovim&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -22,6 +23,7 @@
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+</p>
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyen-Hoang-Nam&layout=compact&langs_count=10">
 
