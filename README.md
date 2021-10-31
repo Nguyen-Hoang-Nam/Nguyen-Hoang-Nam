@@ -1,7 +1,7 @@
 # I don't read code, code README
 
 ![Love](https://img.shields.io/badge/BUILT%20WITH-LOVE-orange?style=for-the-badge&labelColor=E36D25)
-![Nvim](https://img.shields.io/badge/Made%20with-1f425f.svg?style=for-the-badge&logo=neovim&logoColor=white)
+![Nvim](https://img.shields.io/badge/Neovim-74a46a.svg?style=for-the-badge&logo=neovim&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Github](https://img.shields.io/github/stars/Nguyen-Hoang-Nam?style=for-the-badge)
 ![Reddit](https://img.shields.io/reddit/user-karma/combined/nguyenhoangnam-dev?style=for-the-badge)
