@@ -1,48 +1,27 @@
-# I don't read code, code README
+# 🏡 $HOME
 
-![Love](https://img.shields.io/badge/BUILT%20WITH-LOVE-orange?style=for-the-badge&labelColor=E36D25)
-![Github](https://img.shields.io/github/stars/Nguyen-Hoang-Nam?style=for-the-badge)
-![Reddit](https://img.shields.io/reddit/user-karma/combined/nguyenhoangnam-dev?style=for-the-badge)
-![Nvim](https://img.shields.io/badge/Neovim-74a46a.svg?style=for-the-badge&logo=neovim&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Love](https://img.shields.io/badge/BUILT%20WITH-LOVE-orange?style=flat&labelColor=E36D25)
+![Github](https://img.shields.io/github/stars/Nguyen-Hoang-Nam?style=flat)
+![Build](https://img.shields.io/badge/build%20passing-brightgreen?style=flat&labelColor=E36D25)
+![Test](https://img.shields.io/badge/converage%20100%-brightgreen?style=flat&labelColor=E36D25)
+![Quality](https://img.shields.io/badge/code quality%20A-brightgreen?style=flat&labelColor=E36D25)
+![Status](https://img.shields.io/badge/status%20up-brightgreen?style=flat&labelColor=E36D25)
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyen-Hoang-Nam&layout=compact&langs_count=10">
 
-- 🍸 More Go and Rust please.I love languages, they may
-  have the same syntax but the ideas behind its is brilliantly
-  different. Therefore, I use various of languages in my daily
-  developer's life for each scenarios.
-- 🦥 For me, Go (Gin), NodeJS (Express), Python (FastAPI) and
-  PHP (Lavravel) are working properly for small,
-  and medium web apps which need to optimize time of development.
-  For much larger one, I often choose Java (Spring).
-- 🍱 Rust, C and Zig are the great choices for system apps which
-  need high-performance, low latency (cause by garbage collector),
-  and high throughput.
-- 🍌 I'm working in deep learning too so Python.
-- 🌈 Neovim is like my girl friend, I talk with it every day.
-  Therefore, I spend huge amount of time to configure and write
-  plugin for it. You may want to check
+- 🚀 Optimization and performance are my main goal when design
+  any architectures. To make this possible, I use Go and Rust
+  which are great tools because of their self-optimization.
+- 🛰 Most of the time, I work as a full-stack web developer.
+  Building microservices backend in Java, Go, Nodejs, Python
+  in the daytime and create React app at night.
+- 🍱 At my free time, I do all of weird stuffs. Playing with 
+  Haskell in Codewar, creating mobile app in Flutter, building
+  machine learing project in Python or playing with Web 3
+- 🌳 While I can play with IDE, I still stick with Neovim as
+  my main text editor, because it always suprises me by how
+  much it can do and how efficent it is.
   [Nguyen-Hoang-Nam/nvim-dotfiles-kitty](https://github.com/Nguyen-Hoang-Nam/nvim-dotfiles-kitty).
-- 🌳 Recently, I use Haskell to solve problems in CodeWar and turn out
-  it's really nice. I think I'm falling love with it.
 
 ## My CV
 
