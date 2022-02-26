@@ -1,11 +1,11 @@
 # 🏡 $HOME
 
-![Love](https://img.shields.io/badge/BUILT%20WITH-LOVE-orange?style=for-the-bagde&labelColor=E36D25)
-![Github](https://img.shields.io/github/stars/Nguyen-Hoang-Nam?style=for-the-bagde)
-![Build](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-bagde)
-![Test](https://img.shields.io/badge/converage-100%25-brightgreen?style=for-the-bagde)
-![Quality](https://img.shields.io/badge/code%20quality-A-brightgreen?style=for-the-bagde)
-![Status](https://img.shields.io/badge/status-up-brightgreen?style=for-the-bagde)
+![Love](https://img.shields.io/badge/BUILT%20WITH-LOVE-orange?style=for-the-badge&labelColor=E36D25)
+![Github](https://img.shields.io/github/stars/Nguyen-Hoang-Nam?style=for-the-badge)
+![Build](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
+![Test](https://img.shields.io/badge/converage-100%25-brightgreen?style=for-the-badge)
+![Quality](https://img.shields.io/badge/code%20quality-A-brightgreen?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-up-brightgreen?style=for-the-badge)
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyen-Hoang-Nam&layout=compact&langs_count=10">
 
