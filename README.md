@@ -22,6 +22,8 @@
   my main text editor, because it always suprises me by how
   much it can do and how efficent it is.
   [Nguyen-Hoang-Nam/nvim-dotfiles-kitty](https://github.com/Nguyen-Hoang-Nam/nvim-dotfiles-kitty).
+  
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Nguyen-Hoang-Nam&show_icons=true">
 
 ## My CV
 
