@@ -2,10 +2,10 @@
 
 ![Love](https://img.shields.io/badge/BUILT%20WITH-LOVE-orange?style=flat&labelColor=E36D25)
 ![Github](https://img.shields.io/github/stars/Nguyen-Hoang-Nam?style=flat)
-![Build](https://img.shields.io/badge/buil-0passing-brightgreen?style=flat&labelColor=E36D25)
-![Test](https://img.shields.io/badge/converage-100%-brightgreen?style=flat&labelColor=E36D25)
-![Quality](https://img.shields.io/badge/code%20quality-A-brightgreen?style=flat&labelColor=E36D25)
-![Status](https://img.shields.io/badge/status-up-brightgreen?style=flat&labelColor=E36D25)
+![Build](https://img.shields.io/badge/buil-0passing-brightgreen?style=flat)
+![Test](https://img.shields.io/badge/converage-100%25-brightgreen?style=flat)
+![Quality](https://img.shields.io/badge/code%20quality-A-brightgreen?style=flat)
+![Status](https://img.shields.io/badge/status-up-brightgreen?style=flat)
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyen-Hoang-Nam&layout=compact&langs_count=10">
 
