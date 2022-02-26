@@ -23,9 +23,10 @@
   much it can do and how efficent it is.
   [Nguyen-Hoang-Nam/nvim-dotfiles-kitty](https://github.com/Nguyen-Hoang-Nam/nvim-dotfiles-kitty).
   
+## Contribution
+  
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Nguyen-Hoang-Nam&show_icons=true">
 
-![Nvim](https://img.shields.io/badge/Neovim-74a46a.svg?style=for-the-badge&logo=neovim&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -45,7 +46,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## My CV
+## Ready to hire
 
 ![CV](https://raw.githubusercontent.com/Nguyen-Hoang-Nam/readme-image/main/latex-cv/latex-cv.jpg)
 
