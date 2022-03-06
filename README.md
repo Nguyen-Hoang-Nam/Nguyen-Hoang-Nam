@@ -4,7 +4,7 @@
 ![Github](https://img.shields.io/github/stars/Nguyen-Hoang-Nam?style=for-the-badge)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
 ![Test](https://img.shields.io/badge/coverage-100%25-brightgreen?style=for-the-badge)
-![Quality](https://img.shields.io/badge/code%20quality-A-brightgreen?style=for-the-badge)
+![Quality](https://img.shields.io/badge/code%20quality-A+-brightgreen?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-up-brightgreen?style=for-the-badge)
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyen-Hoang-Nam&layout=compact&langs_count=10">
