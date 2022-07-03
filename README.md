@@ -18,7 +18,7 @@
 - 🍱 At my free time, I do all of weird stuffs. Playing with
   Haskell in Codewar, creating mobile app in Flutter, building
   machine learing project in Python or playing with Web 3
-- 🌳 While I can play with IDE, I still stick with Neovim as
+- 🌳 While I can do all the things with IDE, I still stick with Neovim as
   my main text editor, because it always suprises me by how
   much it can do and how efficent it is.
   [Neovim + Kitty = ❤️](https://github.com/Nguyen-Hoang-Nam/nvim-dotfiles-kitty).
