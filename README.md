@@ -10,21 +10,21 @@
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyen-Hoang-Nam&layout=compact&langs_count=10">
 
 - 🚀 Optimization and performance are my main goal when design
-  any architectures. To make this possible, I use Go and Rust
-  which are great tools because of their self-optimization.
+  any architectures. To make this possible, I prepare some strategy,
+  such as manage stack and heap, cache, index and run concurrent.
 - 🛰 Most of the time, I work as a full-stack web developer.
   Building microservices backend in Java, Go, Nodejs, Python
   in the daytime and create React app at night.
-- 🍱 At my free time, I do all of weird stuffs. Playing with 
+- 🍱 At my free time, I do all of weird stuffs. Playing with
   Haskell in Codewar, creating mobile app in Flutter, building
   machine learing project in Python or playing with Web 3
 - 🌳 While I can play with IDE, I still stick with Neovim as
   my main text editor, because it always suprises me by how
   much it can do and how efficent it is.
-  [Nguyen-Hoang-Nam/nvim-dotfiles-kitty](https://github.com/Nguyen-Hoang-Nam/nvim-dotfiles-kitty).
-  
+  [Neovim + Kitty = ❤️](https://github.com/Nguyen-Hoang-Nam/nvim-dotfiles-kitty).
+
 ## Contribution
-  
+
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Nguyen-Hoang-Nam&show_icons=true">
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
